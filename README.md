@@ -12,6 +12,8 @@ On the summary data frame, we are able to see that there is a correlation betwee
 
 Looking at the multiple-line chart, we can compare the total fares by city types over a 5 months period. The Rural and Urbans city types seem to have a 2 week seasonality, wich means that the pattern repeats every two weeks. The Suburban chart seems to stay on the same level for every month and then after april starts to increase.
 
+![Line Chart](Analysis/Fig8.png)
+
 ## Summary
 
 1.- The mean of fares per ride increase when the cities have a higher population and the average fare per drive also increases a lot when this happens. The company should place more drivers to rural areas to improve it's profits.
