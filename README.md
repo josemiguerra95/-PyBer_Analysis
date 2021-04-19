@@ -8,6 +8,7 @@ The goal of the project is to create summary DataFrame of the ride-sharing data 
 
 On the summary data frame, we are able to see that there is a correlation between the population of the city types and the quantity of rides. This correlation affects the total number of drivers, total fare, and both of the averages. Although the quantity of rides, drivers and fares decrease as the cities become farther from urban zones. The mean fare per ride and per drivers seems to increase.
 
+![Summary](Analysis/Summary.PNG)
 
 Looking at the multiple-line chart, we can compare the total fares by city types over a 5 months period. The Rural and Urbans city types seem to have a 2 week seasonality, wich means that the pattern repeats every two weeks. The Suburban chart seems to stay on the same level for every month and then after april starts to increase.
 
